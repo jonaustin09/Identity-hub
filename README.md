@@ -1,6 +1,6 @@
 # Identity-hub
 
-Usage: Run `./chat -sp <SOURCE_PORT>` on host 'B' where <SOURCE_PORT> can be any port number. Now run `./chat -d <MULTIADDR_B>` on node 'A' [`<MULTIADDR_B>` is multiaddress of host 'B' which can be obtained from host 'B' console].
+Usage: Run `./identity-hub -sp <SOURCE_PORT>` on host 'B' where <SOURCE_PORT> can be any port number. Now run `./identity-hub -d <MULTIADDR_B>` on node 'A' [`<MULTIADDR_B>` is multiaddress of host 'B' which can be obtained from host 'B' console].
 
 ## Build
 
